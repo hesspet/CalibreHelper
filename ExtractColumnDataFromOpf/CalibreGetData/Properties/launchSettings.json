@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\HiDrive\\CalibreLibMagic C:\\temp\\CalibreLibMagicZusammenfassung.epub"
+    }
+  }
+}
